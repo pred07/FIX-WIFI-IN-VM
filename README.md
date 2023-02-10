@@ -7,7 +7,7 @@ I faced issue while using wifi on Kali Linux hosted on virtual box and by doing 
 
 1. Select required machine.
 
-2. Select Network.
+2. Select Network
 
 3. Change Attached to: to Bridged Adapter
 
