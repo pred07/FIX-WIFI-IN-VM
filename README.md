@@ -30,4 +30,4 @@ I faced issue while using wifi on Kali Linux hosted on virtual box and by doing 
 9. Enable
 
 
-LOAD BROWSER AND CHECK
+   LOAD BROWSER AND CHECK
