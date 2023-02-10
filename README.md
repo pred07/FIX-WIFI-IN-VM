@@ -9,7 +9,7 @@ Wifi not available in machines hosted on VMs
 
 3. Change <Attached to:> to <Bridged Adapter>
 
-4. Choose <Name:> to <appropriate host machine's internal wifi adapter name>
+4. Choose <Name:> to <appropriate host machines internal wifi adapter name>
 
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/70329325/218055429-426f2c01-d5de-4449-bfec-7e70757dac06.png)
